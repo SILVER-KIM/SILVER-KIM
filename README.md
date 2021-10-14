@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hyoeun!</h1>
-- 🌱 I’m currently learning **Unity, SpringBoot**
+<h1 align="center">Hi👋, I'm Hyoeun!</h1>
+### Who Am I
+- 🌱 I’m currently learning Unity, SpringBoot, Algorithm
+- 🥇 I majored in Software Convergence
 
+### What I Like
+- 📺 Movie
+- 🔵 Game
+- 
 - 👨‍💻 All of my projects are available at [https://aged-nyala-1df.notion.site/04ff8e593213417fb682df123c5cc45b](https://aged-nyala-1df.notion.site/04ff8e593213417fb682df123c5cc45b)
 
 - 📫 How to reach me **khedmsl1028@daum.net**
@@ -9,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=khedmsl1028)](https://solved.ac/khedmsl1028)
+[![solved.ac tier]<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=khedmsl1028"(https://solved.ac/khedmsl1028)>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SILVER-KIM&show_icons=true&theme=radical)
 
 <!--
