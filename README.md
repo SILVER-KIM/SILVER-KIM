@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=khedmsl1028)](https://solved.ac/khedmsl1028)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SILVER-KIM&show_icons=true&theme=radical)
 
 <!--
