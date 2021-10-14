@@ -3,7 +3,6 @@
 ### Who Am I
 - 🌱 I’m currently learning Unity, SpringBoot, Algorithm
 - 🥇 I majored in Software Convergence
-- 
 ### What I Like
 - 📺 Movie
 - 🔵 Game
